@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jglowny/jglowny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jakub Główny 🚀 **Frontend Developer**
 
-Here are some ideas to get you started:
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Material%20UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**4+ lata doświadczenia** | Poznań, PL | React/Next.js/TypeScript
+
+</div>
+
+📧 **jakub.glowny@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/jglowny)  
+🐱 Open to work: **Frontend React/TypeScript**
+
+---
